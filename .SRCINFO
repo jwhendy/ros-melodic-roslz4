@@ -1,7 +1,7 @@
 pkgbase = ros-melodic-roslz4
 	pkgdesc = ROS - A Python and C++ implementation of the LZ4 streaming format.
 	pkgver = 1.14.11
-	pkgrel = 1
+	pkgrel = 2
 	url = https://wiki.ros.org/roslz4
 	arch = any
 	license = BSD
@@ -15,4 +15,3 @@ pkgbase = ros-melodic-roslz4
 	sha256sums = a7f3cf19059c189d3326d3e35f5795d707fa405fb55e7250353d71e0698410f5
 
 pkgname = ros-melodic-roslz4
-
